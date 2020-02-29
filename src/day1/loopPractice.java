@@ -9,5 +9,6 @@ public class loopPractice {
 
         }
         System.out.println(age);
+        System.out.println("Git is fun!");
     }
 }
