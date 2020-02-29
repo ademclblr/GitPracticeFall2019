@@ -7,6 +7,8 @@ public class StringPractice {
         System.out.println(str);
         int age=21;
         System.out.println(age);
+        String name="adem";
+        System.out.println(name);
 
     }
 }
