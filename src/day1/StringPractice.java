@@ -5,6 +5,8 @@ public class StringPractice {
         System.out.println("hello world!");
         String str="java is fine!";
         System.out.println(str);
+        int age=21;
+        System.out.println(age);
 
     }
 }
